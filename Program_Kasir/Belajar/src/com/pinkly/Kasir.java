@@ -1,7 +1,6 @@
 package com.pinkly;
 // ini adalah library untuk pembuatan input
 import java.util.Scanner;
-// ini adalah class menu class yang akan diwariskan kedalam tiga class di bawah
 class Menu {
     protected String nama_barang;
     protected int harga_barang;
